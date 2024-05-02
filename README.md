@@ -1,7 +1,7 @@
 <img src="./card.png" style="display: block; margin-left: auto; margin-right: auto; width: 300px;"></img>
 
 <center>
-    <h1 style="color: #32ae62;">Terbium v2</h1>
+    < h1 style="color: #32ae62;">Terbium v2</h1>
 </center>
 
 ## <span style="color: #32ae62;">Features</span>
